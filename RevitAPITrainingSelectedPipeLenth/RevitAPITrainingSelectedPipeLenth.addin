@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITrainingSelectedPipeLenth.dll"</Assembly>
+		<AddInId>8C9D07C9-7334-4B37-A861-54DEE91D6543</AddInId>
+		<FullClassName>RevitAPITrainingSelectedPipeLenth.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Подсчет длины выбранных труб</Text>
+	</AddIn>
+</RevitAddIns>
